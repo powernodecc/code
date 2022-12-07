@@ -1,0 +1,12 @@
+@import url("@fortawesome/fontawesome-free/css/fontawesome.min.css");
+@import url("@fortawesome/fontawesome-free/css/solid.min.css");
+* {
+  padding: 0;
+  margin: 0;
+}
+
+:root {
+  font-size: 15px;
+}
+
+/*# sourceMappingURL=global.css.map */
